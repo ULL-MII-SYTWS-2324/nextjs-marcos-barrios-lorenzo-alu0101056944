@@ -14,6 +14,11 @@ And this is the previous year's assignment webpage:
 
 But this year's business slogan generator webpage is the one chosen as a base for this project.
 
+## Index
+
+ - [Adding a button](#adding-a-button)
+ - [Changing the style](#changing-the-style)
+
 ## Adding a button
 
 From this look:
