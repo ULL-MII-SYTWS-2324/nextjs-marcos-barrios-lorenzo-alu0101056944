@@ -4,3 +4,10 @@
 
 Use theOpenAI Completion API to generate slogans for a business based on a business description.
 
+This is the webpage in it's initial state:
+
+![screenshot of the webpage in it's initial state](./docs/initial_state.png)
+
+And this is the previous year's assignment webpage:
+
+![screenshot of the webpage on the previous year in it's final state](./docs/previous_year_webpage.png)
