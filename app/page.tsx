@@ -1,10 +1,12 @@
 'use client'
- 
+
 import { useCompletion } from 'ai/react';
- 
+
+import './globals.css'
+
 export default function SloganGenerator() {
   const { completion, input, handleInputChange, handleSubmit } = useCompletion();
- 
+
   return (
     <div className="mx-auto w-full max-w-md py-24 flex flex-col stretch">
       <form onSubmit={handleSubmit}>
